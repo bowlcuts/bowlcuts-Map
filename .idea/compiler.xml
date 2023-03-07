@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="PEPLabsChallenges" />
         <module name="Map" />
+        <module name="bowlcuts-Map" />
       </profile>
     </annotationProcessing>
   </component>
